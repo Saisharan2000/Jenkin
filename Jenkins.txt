@@ -1,0 +1,9 @@
+/var/lib/jenkins/secrets/initialAdminPassword
+
+
+http://13.233.23.180:8080/
+
+jenkins admin username : saisharan2000
+password : OMsai@36
+full name : Sai Sharan Bhonagiri
+email : bhonagiri.sai2000@gmail.com
